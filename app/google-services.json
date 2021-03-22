@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991146642297",
+    "project_id": "fir-imageupload-e264c",
+    "storage_bucket": "fir-imageupload-e264c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991146642297:android:8a2ffaf76a4598b314fda8",
+        "android_client_info": {
+          "package_name": "com.arpit.firebaseimageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991146642297-3itn40g3kari213kp5imm49s3dfhcjht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0AniyzkEIIlipaWp09slOyRId3KtUklk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991146642297-3itn40g3kari213kp5imm49s3dfhcjht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
