@@ -71,7 +71,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     Intent intent = new Intent(MainActivity.this, viewImage.class);
                     intent.putExtra("downloadUri" , imageName);
                     startActivity(intent);
-                }else
+                }
+                else
                 {
                     Toast.makeText(MainActivity.this,"Select Image please..." ,Toast.LENGTH_LONG).show();
                 }
